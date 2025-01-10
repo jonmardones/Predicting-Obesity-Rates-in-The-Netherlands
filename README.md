@@ -54,10 +54,7 @@ deleted columns lacked substantial information.
 For future machine learning projects involving large datasets, exploration of dimensionality reduction techniques such as PCA or SVD is recommended. While these methods did not yield positive results for this project, causing a reduction in R^2 scores, their efficacy depends on the specific dataset. Moreover, in cases where dimensionality reduction is ineffective, employing
 feature selection algorithms like SelectKBest is advised to identify and prioritize the most important features, potentially enhancing model performance by reducing overfitting.
 
-Moreover, we encourage anyone reading this project to expand it by further investigating the causes of why certain attributes, such as "residences owned by a housing association", are more correlated to obesity rates than others within the different regions in The Netherlands. With further investigation, it would be possible to analyse if it is just pure coincidence of it there is
-really a reason why this is happening. In this sense, it would be a meaningful project to work on as it would be contributing to global health care.
-
-Furthermore, it is suggested that readers consider expanding upon this project by delving into the reasons why certain attributes, such as p_wcorpw, exhibit higher correlations with obesity rates than others. A more in-depth investigation could ascertain whether these correlations are coincidental or have an underlying reason. Such an exploration would be highly meaningful as it
+Furthermore, it is suggested that readers consider expanding upon this project by delving into the reasons why certain attributes, such as ""average electricity consumption total", exhibit higher correlations with obesity rates than others. Because of the fact that correlation does not imply causation, more in-depth investigation could ascertain whether these correlations are coincidental or have an underlying reason. Such an exploration would be highly meaningful as it
 would contribute to global health in The Netherlands.
 
 # References
